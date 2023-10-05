@@ -1,0 +1,17 @@
+[
+    {
+        "title":"MrinalPublisher",
+        "Category":"food",
+        "price":999
+    },
+    {
+        "title":"TusharPublishers",
+        "Category":"others",
+        "price":563
+    },
+    {
+        "title":"ArijitPublisher",
+        "Category":"robbery",
+        "price":800
+    }
+]
